@@ -5,3 +5,4 @@ test_commit3
 test_commit4
 test_commit5
 test_commit6
+test_commit7
